@@ -7,7 +7,6 @@ Tech Enthusiast & CompSci student
 hello welcome to my learning repositor
 
 * 🌍  I'm based in indonesia
-* ✉️  You can contact me at [hanashahky@gmail.com](mailto:hanashahky@gmail.com)
 * 🧠  I'm learning i student with passion in Machine Learning and CyberSecurity
 * ⚡  im like learning with people and sharing together
 
